@@ -31,8 +31,9 @@ This repository contains a high-accuracy regression pipeline that combines Light
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/high-accuracy-regression.git
-cd high-accuracy-regression
+git clone https://github.com/your_username/fuel-data-regression-model-with-0.42-mape
+.git
+cd fuel-data-regression-model-with-0.42-mape
 ```
 
 2. Place your own `train.csv` and `test.csv` in the root directory.
