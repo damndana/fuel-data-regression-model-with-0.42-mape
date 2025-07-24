@@ -1,0 +1,23 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.tsv
+
+# Ignore model artifacts
+*.pkl
+*.joblib
+__pycache__/
+*.log
+
+# Ignore Jupyter Notebooks (if not needed)
+*.ipynb
+
+# Output directories
+/output/
+/results/
+
+# Python environment
+.env
+.venv
+*.pyc
+.DS_Store
