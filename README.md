@@ -92,10 +92,3 @@ pip install -r requirements.txt
 ## ⚠️ Disclaimer
 
 This repo contains **no competition or proprietary data**. The model structure is shared strictly for educational and open-source demonstration purposes.
-
-For questions or collaboration ideas, feel free to open an issue or drop a DM!
-
----
-
-Made with 🔥 by \[YourName]
-****
